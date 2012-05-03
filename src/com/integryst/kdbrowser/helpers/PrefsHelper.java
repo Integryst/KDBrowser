@@ -1,3 +1,6 @@
+// Copyright (c) 2012 Integryst, LLC, http://www.integryst.com/
+// See LICENSE.txt for licensing information
+
 package com.integryst.kdbrowser.helpers;
 
 import java.util.ResourceBundle;
